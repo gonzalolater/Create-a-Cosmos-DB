@@ -38,3 +38,14 @@ The code included in this sample is intended to get you quickly started with a N
 - [Azure Cosmos DB: SQL API](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-introduction)
 - [Azure Cosmos DB Node.js SDK](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-api-sdk-node)
 - [Azure Cosmos DB Node.js SDK Reference Documentation](http://azure.github.io/azure-documentdb-node/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+* https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-03-cosmos-lab.html.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+## Microsoft Developers AI Learning Hackathon
+
+* https://azurecosmosdb.devpost.com/
+
+-----------------------------------------------------------------------------------------------------------------------------------------
